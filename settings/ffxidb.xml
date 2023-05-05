@@ -10,14 +10,15 @@
         <ShowMarker>true</ShowMarker>
         <ShowTargetLine>true</ShowTargetLine>
         <Ranges />
+        <Scale>1</Scale>
     </global>
     <Aragan>
-        <X>673</X>
-        <Y>502</Y>
+        <X>633</X>
+        <Y>506</Y>
         <Zoom>130</Zoom>
     </Aragan>
     <Cpttn>
-        <X>670</X>
+        <X>669</X>
         <Y>362</Y>
     </Cpttn>
 </settings>

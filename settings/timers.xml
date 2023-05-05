@@ -1,7 +1,7 @@
 <settings>
     <global>
         <EnableRecast>true</EnableRecast>
-        <EnableBuffs>true</EnableBuffs>
+        <EnableBuffs>false</EnableBuffs>
         <GraphicalMode>true</GraphicalMode>
         <ExtendText>true</ExtendText>
         <TextColoring>false</TextColoring>
