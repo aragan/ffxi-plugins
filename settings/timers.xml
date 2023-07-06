@@ -2,7 +2,7 @@
     <global>
         <EnableRecast>true</EnableRecast>
         <EnableBuffs>false</EnableBuffs>
-        <GraphicalMode>true</GraphicalMode>
+        <GraphicalMode>false</GraphicalMode>
         <ExtendText>true</ExtendText>
         <TextColoring>false</TextColoring>
         <SlimMode>false</SlimMode>
