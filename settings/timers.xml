@@ -45,8 +45,8 @@
         <RecastTimerLimit>10</RecastTimerLimit>
         <BuffsTimerLimit>10</BuffsTimerLimit>
         <CustomTimerLimit>10</CustomTimerLimit>
-        <RecastX>20</RecastX>
-        <RecastY>350</RecastY>
+        <RecastX>200</RecastX>
+        <RecastY>300</RecastY>
         <BuffsX>200</BuffsX>
         <BuffsY>350</BuffsY>
         <CustomX>380</CustomX>
